@@ -45,5 +45,6 @@
     "mockDatabaseUsername": "fakeapi",
     "mockDatabasePassword": "LimitedAccess123#",
     "readonly":"readonly",
-    "authenticatedApiUrl": "https://fakeapi.com"
+    "authenticatedApiUrl": "https://fakeapi.com",
+    "mysql-tag": "localhost"
 }
